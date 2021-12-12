@@ -23,8 +23,9 @@ Example `bot config`
 Test bot from https://github.com/SudhanPlayz/Discord-MusicBot
 
 
-## Youtube tutorial
-A Tutoial Has Been Uploaded Here! https://youtu.be/CsPVTc_7sUs
+## Youtube Tutorial:
+<table><tr><td><a href="https://www.youtube.com/watch?v=CsPVTc_7sUs"><img width="300px" src="https://imgur.com/DgiSMF5"></a></td>
+<td><a href="https://www.youtube.com/watch?v=CsPVTc_7sUs">How To Make A Lavalink Server On Repl It In 3 Minutes!</a><br/>Dec 6, 2021</td></tr></table>
 - - -
 
 ## Note & such
