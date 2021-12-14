@@ -24,7 +24,7 @@ Test bot from https://github.com/SudhanPlayz/Discord-MusicBot
 
 
 ## Youtube Tutorial:
-<table><tr><td><a href="https://www.youtube.com/watch?v=CsPVTc_7sUs"><img width="300px" src="https://i.imgur.com/DgiSMF5"></a></td>
+<table><tr><td><a href="https://www.youtube.com/watch?v=CsPVTc_7sUs"><img width="300px" src="https://cdn.discordapp.com/attachments/834258184167751681/920247434502893598/Add_a_heading_3.png"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CsPVTc_7sUs">How To Make A Lavalink Server On Repl It In 3 Minutes!</a><br/>Dec 6, 2021</td></tr></table>
 - - -
 
